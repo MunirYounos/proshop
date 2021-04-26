@@ -1,6 +1,5 @@
 const products = [
 	{
-		_id: '1',
 		name: 'Hoddy comfort +',
 		image: '/images/hoddi.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
@@ -12,7 +11,6 @@ const products = [
 		numReviews: 4,
 	},
 	{
-		_id: '2',
 		name: 'Extra Speed Shoes for out door running',
 		image: '/images/shoe.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
@@ -24,7 +22,6 @@ const products = [
 		numReviews: 23,
 	},
 	{
-		_id: '3',
 		name: 'Sporty Shorts',
 		image: '/images/shorts.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
@@ -36,7 +33,6 @@ const products = [
 		numReviews: 14,
 	},
 	{
-		_id: '4',
 		name: 'outdoor trousers',
 		image: '/images/hoddi.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
@@ -48,7 +44,6 @@ const products = [
 		numReviews: 34,
 	},
 	{
-		_id: '5',
 		name: 'Slim tshirt',
 		image: '/images/tshirt.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
@@ -60,7 +55,6 @@ const products = [
 		numReviews: 40,
 	},
 	{
-		_id: '6',
 		name: 'Smooth Underwear',
 		image: '/images/underwear.jpg',
 		description: 'Iam a product detail. I am a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.',
