@@ -61,7 +61,7 @@ const products = [
 		brand: 'Shorts',
 		category: 'Clothing',
 		price: 59.99,
-		countInStock: 5,
+		countInStock: 0,
 		rating: 3.1,
 		numReviews: 43
 	},
